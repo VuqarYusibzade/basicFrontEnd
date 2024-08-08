@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(192, 192, 192);
+}
+
+
+h1 {
+    font-weight: 200;
+    color: red;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+}
+
+
+
+img {
+    width: 375px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    
+}
+
+.beatles-link {
+    position: absolute;
+    top: 59%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    
+}
+
+.p-link {
+    
+    position: absolute;
+    top: 63%;
+    margin: 0;
+
+}
+
+ul{
+    position: absolute;
+    top: 66%;
+    margin: 0;
+}
+
+.c-link{
+    position: absolute;
+    top: 81%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+}
+
+.j-link{
+    position: absolute;
+    top: 84%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+}

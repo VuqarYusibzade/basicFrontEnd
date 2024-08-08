@@ -1,0 +1,65 @@
+h1 {
+    font-weight: 600;
+    position: absolute;
+    padding: 1rem;
+    margin: 0;
+}
+
+.h-link{
+    font-size: large;
+    font-weight: 800;
+    top: 8%;
+    position: absolute;
+}
+
+.t-link{
+    position: absolute;
+    top: 12%;
+    
+}
+
+.i-link{
+    font-size: large;
+    font-weight: 800;
+    position: absolute;
+    top: 16%;
+}
+
+.f-link{
+    position: absolute;
+    top: 20%;
+}
+
+.d-link{
+    position: absolute;
+    top: 32%;
+}
+
+.k-link{
+    position: absolute;
+    top: 44%;
+}
+
+.s-link{
+    font-size:x-large;
+    font-weight: 800;
+    position: absolute;
+    top: 48%;
+}
+
+.g-link{
+    font-size:large;
+    font-weight: 800;
+    position: absolute;
+    top: 54%;
+}
+
+img{
+    position: absolute;
+    top: 60%;
+}
+
+.last-link{
+    position: absolute;
+    top: 96%;
+}
